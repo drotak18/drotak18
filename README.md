@@ -5,7 +5,7 @@
 ### 🌱 Currently Learning
 - QGIS — spatial analysis alongside my econometrics work
 
-### 💼 Experience
+### 💼 Previous Work Experience
 - Financial Analyst Intern @ Nestlé
 
 ### 📫 Reach Me
