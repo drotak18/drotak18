@@ -9,4 +9,4 @@
 - Financial Analyst Intern @ Nestlé
 
 ### 📫 Reach Me
-- Email: drotak18@gmail.com
+- Email: drotak18@gmail.com | asing176@student.ubc.ca
