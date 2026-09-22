@@ -2,11 +2,5 @@
 
 🎓 UBC — Combined Economics & Mathematics
 
-### 🌱 Currently Learning
-- QGIS — spatial analysis alongside my econometrics work
-
-### 💼 Previous Work Experience
-- Financial Analyst Intern @ Nestlé
-
 ### 📫 Reach Me
 - Email: drotak18@gmail.com | asing176@student.ubc.ca
